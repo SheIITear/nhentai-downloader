@@ -17,13 +17,11 @@ rl.question('Give me the code: ', (code) => {
   axiosins.get(url)
     .then(
       response => {
-        var links = []
         var $ = cheerio.load(response.data)
 
         // get pages
         $('.lazyload').each((_index, value) => {
           var link = $(value).attr('data-src')
-          links.push({ link: link })
 
           // check what its going to download
           if (!link.includes('thumb') && !link.includes('cover')) {
