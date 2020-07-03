@@ -7,3 +7,4 @@ Usage
   
   Download: 
   > ts-node downloader
+  It will create a directory named by the code and download all the pages there
