@@ -1,0 +1,26 @@
+{
+  "name": "downloader",
+  "version": "1.0.0",
+  "description": "download nhentai by code",
+  "main": "downloader.ts",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "-"
+  ],
+  "author": "ShellTear",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "cheerio": "^1.0.0-rc.2",
+    "nodejs-file-downloader": "^1.0.5",
+    "readline": "^1.2.9",
+    "typescript": "^3.9.4",
+    "ts-node": "^8.10.1"
+  }
+}
