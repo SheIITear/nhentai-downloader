@@ -3,6 +3,6 @@ Something I made to learn more about typescript so it's not perfect, but works.
 
 Usage
   Install dependencies: 
-  > npm i
+  > npm i <
   Download by code: 
-  > ts-node downloader and give it the code
+  > ts-node downloader < and give it the code
