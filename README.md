@@ -1,4 +1,4 @@
-# nhentai-downloader
+# fast nhentai-downloader
 Something I made to learn more about typescript so it's not perfect, but works.
 
 Usage:
