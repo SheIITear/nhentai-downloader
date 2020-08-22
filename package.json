@@ -18,9 +18,11 @@
   "dependencies": {
     "axios": "^0.19.1",
     "cheerio": "^1.0.0-rc.2",
+    "cli-progress": "^3.8.2",
+    "colors": "^1.4.0",
     "nodejs-file-downloader": "^1.0.5",
     "readline": "^1.2.9",
-    "typescript": "^3.9.4",
-    "ts-node": "^8.10.1"
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.4"
   }
 }
