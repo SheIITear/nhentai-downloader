@@ -9,6 +9,5 @@ Usage:
  -Download: 
  >ts-node downloader
   
-  It will create a directory named by the code and download all the pages there.
+  It will create a directory named by the code and download all the pages there and smash them into a pdf file.
   
-  TODO: add conversion of image files to pdf.
