@@ -1,28 +1,29 @@
 {
-  "name": "downloader",
-  "version": "1.0.0",
-  "description": "download nhentai by code",
-  "main": "downloader.ts",
-  "scripts": {
-    "test": "-"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/SheIITear/nhentai-downloader"
-  },
-  "keywords": [
-    "-"
-  ],
-  "author": "ShellTear",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^0.19.1",
-    "cheerio": "^1.0.0-rc.2",
-    "cli-progress": "^3.8.2",
-    "colors": "^1.4.0",
-    "nodejs-file-downloader": "^1.0.5",
-    "readline": "^1.2.9",
-    "ts-node": "^8.10.1",
-    "typescript": "^3.9.4"
-  }
+    "name": "downloader",
+    "version": "1.0.0",
+    "description": "download nhentai by code",
+    "main": "downloader.ts",
+    "scripts": {
+        "test": "-"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SheIITear/nhentai-downloader"
+    },
+    "keywords": [
+        "-"
+    ],
+    "author": "ShellTear",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.19.1",
+        "cheerio": "^1.0.0-rc.2",
+        "cli-progress": "^3.8.2",
+        "colors": "^1.4.0",
+        "nodejs-file-downloader": "^1.0.5",
+        "pdfkit": "^0.11.0",
+        "readline": "^1.2.9",
+        "ts-node": "^8.10.1",
+        "typescript": "^3.9.4"
+    }
 }
