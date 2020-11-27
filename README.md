@@ -11,3 +11,5 @@ Usage:
   
   It will create a directory named by the code and download all the pages there and smash them into a pdf file.
   
+Todo:
+  Make asynchronous
