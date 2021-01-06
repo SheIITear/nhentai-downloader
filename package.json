@@ -16,7 +16,7 @@
     "author": "ShellTear",
     "license": "ISC",
     "dependencies": {
-        "axios": "^0.19.1",
+        "axios": "^0.21.1",
         "cheerio": "^1.0.0-rc.2",
         "cli-progress": "^3.8.2",
         "colors": "^1.4.0",
